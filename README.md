@@ -1,0 +1,1 @@
+# Node-NgSlack-API
